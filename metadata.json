@@ -1,0 +1,8 @@
+{
+  "name": "Remix AgentGuard — AI Agent Security Gateway",
+  "description": "Autonomous AI agent security layer, intent drift detection, risk firewall, human approval gate, and Google Gemini AI threat intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
